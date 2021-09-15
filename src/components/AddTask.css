@@ -14,3 +14,8 @@
   height: 40px;
   padding: 0 10px;
 }
+
+.add-task-button-container {
+  flex: 1;
+  margin-left: 10px;
+}
