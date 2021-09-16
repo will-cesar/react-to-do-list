@@ -9,5 +9,11 @@
 - Uso de props, de componete pai para filho e filho para pai
 - Uso de children dentro do componente
 - Uso de useState e setState
+- Uso de useParams
+- Uso de useHistory
+- uso de useEffect
 - Biblioteca uuid
 - Biblioteca react icons
+- Biblioteca React Router Dom
+- Biblioteca Axios
+- Consumo de API

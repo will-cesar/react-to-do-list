@@ -1,4 +1,4 @@
-.add-button {
+.button {
   background-color: chartreuse;
   border-radius: 5px;
   border: none;
@@ -8,5 +8,11 @@
   font-weight: bold;
   height: 40px;
   padding: 0 10px;
+  transition: all .5s ease;
   width: 100%;
+}
+
+.button:hover {
+  background-color: #444;
+  color: chartreuse;
 }
